@@ -1,1 +1,1 @@
-# ubuntu-scripts
+Ping network seting
