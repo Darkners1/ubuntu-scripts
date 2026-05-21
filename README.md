@@ -1,1 +1,1 @@
-Ping network seting
+Ping network setting
